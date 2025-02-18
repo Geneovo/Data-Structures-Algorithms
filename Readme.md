@@ -2,7 +2,7 @@
 
 The data structure and algorithms i struggled with after exploring the interactive visualization on https://visualgo.net/en are as follows:
 
-* Linked List
+## Linked List
 - This was too complex to visualize, and it has multiply types of linked lists and I don't understand their differences.
 
 - It uses nodes and pointers, but I don't understand how that works in practice.
